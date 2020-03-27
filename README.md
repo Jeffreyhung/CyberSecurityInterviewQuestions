@@ -18,4 +18,6 @@ Tried my best to categorize them but there might still be some duplicated or mis
 
 ## [Incident Response](IncidentResponse.md)
 
+## [SOC](SOC.md)
+
 ## [Behavior Questions](BehaviorQuestion.md)
