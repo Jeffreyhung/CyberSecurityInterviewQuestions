@@ -16,4 +16,6 @@ Tried my best to categorize them but there might still be some duplicated or mis
 
 ## [Security Management](SecurityManagement.md)
 
+## [Incident Response](IncidentResponse.md)
+
 ## [Behavior Questions](BehaviorQuestion.md)
